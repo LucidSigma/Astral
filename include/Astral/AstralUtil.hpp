@@ -20,7 +20,7 @@ namespace astral
 		unsigned int patch;
 	};
 
-	constexpr VersionData Version{ 1, 0, 0 };
+	constexpr VersionData Version{ 1, 0, 1 };
 
 	struct LoopForeverType { };
 	constexpr LoopForeverType LoopForever{ };
