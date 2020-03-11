@@ -10,10 +10,10 @@ Astral requires [SDL2](https://www.libsdl.org/) and [SDL mixer](https://www.libs
 ## Features
 
 - [Initialisation](#Initialisation)
-- [Playing sounds](#Playing%20Sounds)
-- [Playing music](#Playing%20Music)
-- [Positional audio](#Positional%20Audio)
-- [Other utilities](#Other%20Utilities)
+- [Playing sounds](#Playing-Sounds)
+- [Playing music](#Playing-Music)
+- [Positional audio](#Positional-Audio)
+- [Other utilities](#Other-Utilities)
 
 ### Initialisation
 
